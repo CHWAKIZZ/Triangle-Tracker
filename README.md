@@ -1,6 +1,6 @@
 # TRIANGLE TRACKER
 #### A triangle tracker for determining triangle type based on given dimensions, 02/2019
-#### By **Hussein Fuaad Mahmoud**
+#### By **CHWAKIZZ**
 ## Description
 This is a project that can be used to try and evaluate if certain dimensions can be used to make triangles and what kind of triangles they form. All that the user needs to do is input his or her dimensions and then the program responds by telling her what kind of triangle she has made.
 ## BDD
@@ -13,9 +13,9 @@ This is a project that can be used to try and evaluate if certain dimensions can
 ## Setup/Installation Requirements
 * Open your browser browser.
 * Load gitHub on your browser.
-* Search for fuaad001/triangle-tracker repository.
+* Search for CHWAKIZZ/triangle-tracker repository.
 * Fork the data onto your own personal repository.
-* To access the live website, click on this url: https://fuaad001.github.io/triangle-tracker
+* To access the live website, click on this url:https://chwakizz.github.io/triangle-tracker/
 ## Known Bugs
 No Bugs
 ## Technologies Used
@@ -23,8 +23,8 @@ CSS for styling.
 HTML for webpage design.
 ## Support and contact details
 Contact me using:
-Telephone: +(254) 751-579-367
-Email: husseinfuaad@hotmail.com
+
+Email: Adriankeith15@gmail.com
 ### License and Copyright details
 The MIT License (MIT)
-Copyright (c) 2019**Hussein Fuaad Mahmoud**
+Copyright (c) 2019**Keith Mwangi**
